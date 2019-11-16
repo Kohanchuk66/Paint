@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{B2CB0AC0-E33E-488C-B399-0A9729C56632}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeLibrary", "..\..\ShapeLibrary\ShapeLibrary.csproj", "{9842FF7E-D60B-4694-B3ED-460E8C4719EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CB0AC0-E33E-488C-B399-0A9729C56632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CB0AC0-E33E-488C-B399-0A9729C56632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CB0AC0-E33E-488C-B399-0A9729C56632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CB0AC0-E33E-488C-B399-0A9729C56632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9842FF7E-D60B-4694-B3ED-460E8C4719EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9842FF7E-D60B-4694-B3ED-460E8C4719EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9842FF7E-D60B-4694-B3ED-460E8C4719EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9842FF7E-D60B-4694-B3ED-460E8C4719EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F907670-CA41-4F0C-8ED0-68F234202C54}
+	EndGlobalSection
+EndGlobal
